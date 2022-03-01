@@ -2,17 +2,22 @@
 
 - HW1 :
   - Camera calibration
+  - https://hackmd.io/@LCHgX-UrQlOwTC_GwPQvdw/HJqMXiB4u
 - HW2 :
   - Hybrid image
   - Image pyramid
   - Colorizing the Russian empire
+  - https://hackmd.io/@LCHgX-UrQlOwTC_GwPQvdw/H1UQpte8d
 - HW3 :
    - Automatic panoramic image stitching
+   - https://hackmd.io/@LCHgX-UrQlOwTC_GwPQvdw/rk2dJDbOO
 - HW4 :
   - SfM
+  - https://hackmd.io/@LCHgX-UrQlOwTC_GwPQvdw/Sk6t1L8Yd
 - HW5 :
   - Tiny images representation + nearest neighbor classifier
   - Bag of SIFT representation + nearest neighbor classifier
-  - Bag of SIFT representation + linear SVM classifier 
+  - Bag of SIFT representation + linear SVM classifier
+  - https://hackmd.io/@LCHgX-UrQlOwTC_GwPQvdw/BJBSFXGqu
 - Final Project
   - Change the facial features through image
